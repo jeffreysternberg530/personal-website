@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Jeffrey Sternberg
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,34 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Sociology
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Northeastern University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include the New Urban Crisis, Digital Nomads, City Image,and Pop-Up Urbansim
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Globalization 
+- Urban Sociology
+- Political Economy
+- Computational Social Science
+- Social Theory
+- Mobilities
+- Co-Living and Digital Nomads
+- City Image
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MA in Sociology
+    institution: Northeastern University
+    year: 2017
+  - course: BA in Philosophy with Concentrations in Political Theory & Media Studies
+    institution: Michigan State University
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,21 +46,21 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:sternberg.je@husky.neu.edu".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/JeffSternberg
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/jeffreysternberg530
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Jeffrey Sternberg is a PhD Candidate in the Sociology at Northeastern University. His research is primarily concerned with charting the shifting geographies of employment opened up by post-industrialization. He focuses on how young people make decisions regarding their future and where to invest their mobility. Jeff’s dissertation research investigates these processes by looking at mobile populations including backpackers, temporary-workers, and digital nomads in the context of urban co-living spaces. He utilizes a mixed-methods approach, using techniques from the computational social sciences, including text analysis and social network analysis, coupled with multi-sited ethnographic fieldwork in Los Angeles, CA and Dharamsala, India. His work as a research assistant investigates the potential application of computer vision to social science inquiries.
