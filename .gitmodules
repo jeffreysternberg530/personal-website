@@ -7,5 +7,5 @@
 	branch = master
 [submodule "public"]
 	path = public
-	url = https://github.com/jeffreysternberg530/jeffreysternberg530.github.io.git
+	url = https://github.com/jeffreysternberg530/jeffreysternberg530.io.github.git
 	branch = master
